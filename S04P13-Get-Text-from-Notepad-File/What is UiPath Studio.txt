@@ -1,0 +1,11 @@
+What is UiPath Studio?
+
+UiPath Studio is an integrated development environment for RPA developers to design, develop, and debug automation projects. Studio connects with Orchestrator to publish automated processes as NuGet packages to feeds. From there, they are distributed to robots to be executed. When we say Studio, we could talk about three profiles: Studio, StudioX, and Studio Pro. These are meant to match different coding skills that developers may have:
+
+1. StudioX is meant for business users looking to automate tasks for themselves and their immediate teams. 
+
+2. Studio is meant for RPA developers looking to build complex unattended or attended process automations.   
+
+3. Studio Pro is meant for more advanced developers. This more advanced IDE contains test automation tools, RPA testing, and advanced coding services.   
+
+Depending on the type of Studio license an enterprise may purchase, Studio users can switch between Studio, StudioX, and Studio Pro profiles as they need. 
