@@ -1,0 +1,34 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {},
+    ".NETFramework,Version=v4.6.1/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "": [],
+    ".NETFramework,Version=v4.6.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "Practice 1_Lists",
+      "projectName": "Practice 1_Lists",
+      "projectPath": "C:\\Users\\ercan.kertisci\\Desktop\\RPA Developer Foundation Sections\\RPA-Developer-Foundation-Sections\\S07P04-Practice-1-Lists\\.local",
+      "packagesPath": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ercan.kertisci\\Desktop\\RPA Developer Foundation Sections\\RPA-Developer-Foundation-Sections\\S07P04-Practice-1-Lists\\.local"
+    },
+    "frameworks": {
+      "net461": {
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
