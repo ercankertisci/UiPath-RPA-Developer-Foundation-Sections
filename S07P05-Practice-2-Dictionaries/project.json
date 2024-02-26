@@ -1,0 +1,64 @@
+{
+  "name": "Practice 2_Dictionaries",
+  "projectId": "fc3ba31a-a9ea-4dbf-bcb8-309e67565d69",
+  "description": "Process to print the number of victories for each winner based on the input list.",
+  "main": "Practice2_Dictionaries_CompetitorsSummary.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[21.10.4]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.6.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Practice3_Dictionaries_CompetitorsSummary.xaml",
+      "uniqueId": "8905168e-2d48-4600-a0e8-0426eacaae9c",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Practice2_Dictionaries_CompetitorsSummary.xaml",
+      "uniqueId": "38940319-d6b9-4934-97f0-e1399225d631",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
