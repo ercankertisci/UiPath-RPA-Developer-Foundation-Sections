@@ -1,0 +1,5 @@
+Please generate new employee IDs for the following user accounts:
+ 
+john.doe@localcompany.com
+julia.star10@yahoo.com
+nina_ferr3@yahoo.com.
