@@ -1,0 +1,10 @@
+Issues on data from Excel.
+Row:
+1. Mobile Number will not be able to parse to Int64 as it has an E inside
+2. The date contains letters also so it won't be able to parse it.
+3. This row is fine
+4.Different format of data saved inside the excel which will lead to entering wrong info inside the form.
+
+Optional issues that can be added:
+1. There are certain UiActivities which have omitted certain part of selectors. We can enable those to make the workflow crash.
+2. The birthday selection in the form is a bit weird, I made a workaround with UiAutomation on it, it's not the best but it works. I can't use the Select Item activity as its closing the Date picker window inside the form.
