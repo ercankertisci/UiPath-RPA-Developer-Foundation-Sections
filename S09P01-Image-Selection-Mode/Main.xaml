@@ -1,0 +1,114 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="466,912" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>System.ComponentModel</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.Bcl.AsyncInterfaces</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Composition</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.ValueTuple</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.Excel</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence sap:VirtualizedContainerService.HintSize="476,887" sap2010:WorkflowViewState.IdRef="Sequence_2">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Application: Hyper-V - Virtual Machine Connection" sap:VirtualizedContainerService.HintSize="434,795" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="f4db221d-f617-4ec1-b86b-8fbcd4d2c241" Version="V1">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="376,506" sap2010:WorkflowViewState.IdRef="Sequence_1">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Cash In' Field" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="334,216" sap2010:WorkflowViewState.IdRef="NTypeInto_1" ScopeIdentifier="f4db221d-f617-4ec1-b86b-8fbcd4d2c241" Text="123" Version="V1">
+              <uix:NTypeInto.Target>
+                <uix:TargetAnchorable DesignTimeRectangle="519, 278, 133, 31" FriendlyName="'vmconnect.exe VM1'" Guid="befdc479-0dde-4f15-900a-35d7ce1811bf" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAIUAAAAfCAYAAADJJw4ZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACASURBVHhe7dKxDYNAAARB998KcuS+vgUQGfIiCMieGekquP2MMVaz40RhmSgsE4Vll1Es359NvLPP991GwZxEQYiCEAUhCkIUhCgIURCiIERBiIIQBSEKQhSEKAhREKIgREGIghAFIQriURQ2784+33cZhb1zorBMFJaJwv421g32GRUaV/jP+AAAAABJRU5ErkJggg==" InformativeScreenshot="217c0a4139d14b3d9c51679f7c28e06a.png" ScopeSelectorArgument="&lt;wnd app='vmconnect.exe' cls='WindowsForms10.Window.*' title='VM1 on DESKTOP-BT9GU51 - Virtual Machine Connection' /&gt;" SearchSteps="Image" TargetType="ImageBased">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="449, 275, 64, 31" FriendlyName="'vmconnect.exe VM1'" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEAAAAAfCAYAAABXscv8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFCSURBVGhD7ZTREcMgCIYdyo0cx1mcxF2yArVqEiR/W9te77zCw/cQ0AifJG7bNtKMCUBBTZgAFNSECUBBTZgAFNSECUBBTZgAFMRkit6Rcyc+ZrDuA3Ik7zzFDHKIFMr5gRLKvcmcgFqgbDhRuIsIicU+ZG0B7ebhbV8K71IYIZ3rU+A51kB/Twj+zPtIec9LhIAcy74Qhwmdnc7XAqZvpzXPD24Nt0Jrkayp4blP2DlN13cNIAFl/SG75ucm6rWAb8aN7ZUCBoDkKu/R54UEDO9uAvn0PeIHAuTPct/LPw9xO0sLmP4EWON74VAeF9RzSwt49hPkB9UmRLNPp0fuXVZAoRYoJbRDjoNlE33PXuilSN7E8gIqvWGGnIpayJEvBXYJrRD5b5Cylhfwn5gAFNSECUBBTZgAFNSECUBBPWx0A05V6R8Dl0KmAAAAAElFTkSuQmCC" SearchSteps="Image" TargetType="ImageBased" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NTypeInto.Target>
+            </uix:NTypeInto>
+            <uix:NClick ClickType="Single" DisplayName="Click Accept Image" sap:VirtualizedContainerService.HintSize="334,156" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="f4db221d-f617-4ec1-b86b-8fbcd4d2c241" Version="V1">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable DesignTimeRectangle="486, 657, 52, 19" FriendlyName="'vmconnect.exe VM1'" Guid="d1f7ad9c-24e0-4307-8898-f6f7c2679ce7" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADQAAAATCAYAAADf0S5lAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE+SURBVFhH7ZRhyoMwDIaLeB/xw9M4h0eRD7yHPzyGzIuoZ8lMTGvUbutGHTL88aJNaponSVXDMMAv6QQ6uk6go8sdqKsgVQEkZWv37yk8O0igbC2+lRyBemiKGP6yC8RJCa11z47yDtQ3UMRjwNv4jELI66W/q1JQSpHCvH5hx+JEWzueMca+/hcQkY+ngezTXuUA5QTUN4XpDCYpk0ZfFOZQ45qTQuBHdoLUdjnGOnH20fcawG+HpnEzdweD64S42hJw/sZm76BKt92iNQHJO4p7ee0VSLbcSI/dOkGt5/ZlLAUBdl90cd67A9BiRISNkvioQ7ILQusOybU/IHul5XwvgEUS7naOz+9Tofa6QxjIjJeQTIS7ocdnhneza4ApZghZNgKTT5zL53n7y31FDLQp3ps6gY6uE+jYGuAOsxrLzbW3fuIAAAAASUVORK5CYII=" InformativeScreenshot="19cc442b0fe70e58a94884a4e77270bc.png" ScopeSelectorArgument="&lt;wnd app='vmconnect.exe' cls='WindowsForms10.Window.*' title='VM1 on DESKTOP-BT9GU51 - Virtual Machine Connection' /&gt;" SearchSteps="Image" TargetType="ImageBased" />
+              </uix:NClick.Target>
+            </uix:NClick>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="63, 48, 1034, 876" FilePath="C:\Windows\System32\vmconnect.exe" IconBase64="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" InformativeScreenshot="2cf955a551327b282a5ec3ac87082676.png" Selector="&lt;wnd app='vmconnect.exe' cls='WindowsForms10.Window.*' title='*- Virtual Machine Connection' /&gt;" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>
