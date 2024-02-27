@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Highlight_WFType_Items.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ACME_website&Sequence_1",
+        "ACME_generic&Sequence_1",
+        "SelectedValue&Sequence_1",
+        "TableIndex&Sequence_1",
+        "FoundChildren&Sequence_11",
+        "NextPageExists&Sequence_11",
+        "TheAttribute&Sequence_10"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
