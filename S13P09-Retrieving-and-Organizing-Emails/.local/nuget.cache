@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPWWtgMuBdYuberpecoeiVs5d8nBJfoere+XtG8CevS6mwosaD4kBp5U5g0GJN4taz42N2yW9HXmC1LM9OOZ7g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\ercan.kertisci\\Desktop\\RPA Developer Foundation Sections\\RPA-Developer-Foundation-Sections\\S13P09-Retrieving-and-Organizing-Emails\\.local\\",
+  "expectedPackageFiles": [
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\avalonedit\\5.0.3\\avalonedit.5.0.3.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\bouncycastle\\1.8.1\\bouncycastle.1.8.1.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro\\3.0.1\\caliburn.micro.3.0.1.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro.core\\3.0.1\\caliburn.micro.core.3.0.1.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\extended.wpf.toolkit.2.8.0.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\humanizer.core\\2.4.2\\humanizer.core.2.4.2.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\microsoft.exchange.webservices.2.2.0.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath\\9.0.6877.24355\\uipath.9.0.6877.24355.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\uipath.mail.activities.1.1.6562.21018.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\uipath.uiautomation.activities.18.3.6877.28298.nupkg.sha512",
+    "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.vision\\1.1.0\\uipath.vision.1.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "filePath": "C:\\Users\\ercan.kertisci\\Desktop\\RPA Developer Foundation Sections\\RPA-Developer-Foundation-Sections\\S13P09-Retrieving-and-Organizing-Emails\\.local",
+      "message": "Unable to find package UiPath.System.Activities with version (= 18.3.6858.31352)\r\n  - Found 86 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json [ Nearest version: 18.3.6864.20561 ]\r\n  - Found 86 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json [ Nearest version: 18.3.6864.20561 ]\r\n  - Found 2 version(s) in C:\\Program Files\\UiPath\\Studio\\Packages [ Nearest version: 23.12.0-preview ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v3/index.json",
+      "libraryId": "UiPath.System.Activities",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    },
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "filePath": "C:\\Users\\ercan.kertisci\\Desktop\\RPA Developer Foundation Sections\\RPA-Developer-Foundation-Sections\\S13P09-Retrieving-and-Organizing-Emails\\.local",
+      "message": "Unable to find package UiPath.Excel.Activities with version (= 2.4.6856.17931)\r\n  - Found 95 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json [ Nearest version: 2.4.6884.25683 ]\r\n  - Found 95 version(s) in https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json [ Nearest version: 2.4.6884.25683 ]\r\n  - Found 2 version(s) in C:\\Program Files\\UiPath\\Studio\\Packages [ Nearest version: 2.23.0-preview ]\r\n  - Found 0 version(s) in C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\r\n  - Found 0 version(s) in https://api.nuget.org/v3/index.json\r\n  - Found 0 version(s) in https://gallery.uipath.com/api/v3/index.json",
+      "libraryId": "UiPath.Excel.Activities",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win-x86"
+      ]
+    }
+  ]
+}

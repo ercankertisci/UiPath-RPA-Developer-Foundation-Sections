@@ -1,0 +1,62 @@
+{
+  "name": "Lesson11-Practice1-EmailRules-Answers",
+  "projectId": "15b63a61-4031-4f41-a988-e8ea67ac4724",
+  "description": "Blank Process",
+  "main": "Sort E-mails.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.4.6856.17931]",
+    "UiPath.Mail.Activities": "[1.1.6562.21018]",
+    "UiPath.System.Activities": "[18.3.6858.31352]",
+    "UiPath.UIAutomation.Activities": "[18.3.6877.28298]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "24.2.0.0",
+  "projectVersion": "1.0.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false,
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Sort E-mails.xaml",
+      "uniqueId": "6a32d0ce-371d-4056-b21a-7e2e172ba517",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

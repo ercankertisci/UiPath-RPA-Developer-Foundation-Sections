@@ -1,0 +1,309 @@
+{
+  "Packages": [
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "[2.4.6856.17931]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.1.6562.21018"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\bouncycastle\\1.8.1\\lib/BouncyCastle.Crypto.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib/40/Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib/40/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib/net40/MailKit.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib/net40/MimeKit.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib/net40/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib/net40/UiPath.Mail.Activities.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib/net40/UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.System.Activities",
+        "Version": "[18.3.6858.31352]"
+      },
+      "Assemblies": [],
+      "Path": null
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "18.3.6877.28298"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\avalonedit\\5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib/net45/Caliburn.Micro.Platform.Core.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib/net45/Caliburn.Micro.Platform.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib/net45/System.Windows.Interactivity.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro.core\\3.0.1\\lib/net45/Caliburn.Micro.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\humanizer.core\\2.4.2\\lib/netstandard2.0/Humanizer.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath\\9.0.6877.24355\\lib/UiPath.Interop.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib/net461/UiPath.Wizards.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.vision\\1.1.0\\lib/net452/UiPath.Vision.Core.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.vision\\1.1.0\\lib/net452/UiPath.Vision.Package.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.vision\\1.1.0\\lib/net452/UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298"
+    }
+  ],
+  "Conflicts": [],
+  "ResolvedDependencies": {
+    "AvalonEdit": {
+      "Id": "AvalonEdit",
+      "Version": "5.0.3",
+      "Dependencies": []
+    },
+    "BouncyCastle": {
+      "Id": "BouncyCastle",
+      "Version": "1.8.1",
+      "Dependencies": []
+    },
+    "Caliburn.Micro": {
+      "Id": "Caliburn.Micro",
+      "Version": "3.0.1",
+      "Dependencies": [
+        {
+          "Item1": "Caliburn.Micro.Core",
+          "Item2": "[3.0.1, 3.0.1]"
+        }
+      ]
+    },
+    "Caliburn.Micro.Core": {
+      "Id": "Caliburn.Micro.Core",
+      "Version": "3.0.1",
+      "Dependencies": []
+    },
+    "Extended.Wpf.Toolkit": {
+      "Id": "Extended.Wpf.Toolkit",
+      "Version": "2.8.0",
+      "Dependencies": []
+    },
+    "Humanizer.Core": {
+      "Id": "Humanizer.Core",
+      "Version": "2.4.2",
+      "Dependencies": []
+    },
+    "Microsoft.Exchange.WebServices": {
+      "Id": "Microsoft.Exchange.WebServices",
+      "Version": "2.2.0",
+      "Dependencies": []
+    },
+    "UiPath": {
+      "Id": "UiPath",
+      "Version": "9.0.6877.24355",
+      "Dependencies": []
+    },
+    "UiPath.Mail.Activities": {
+      "Id": "UiPath.Mail.Activities",
+      "Version": "1.1.6562.21018",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Exchange.WebServices",
+          "Item2": "[2.2.0, )"
+        },
+        {
+          "Item1": "BouncyCastle",
+          "Item2": "[1.8.1, )"
+        }
+      ]
+    },
+    "UiPath.UIAutomation.Activities": {
+      "Id": "UiPath.UIAutomation.Activities",
+      "Version": "18.3.6877.28298",
+      "Dependencies": [
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Caliburn.Micro",
+          "Item2": "[3.0.1, )"
+        },
+        {
+          "Item1": "Extended.Wpf.Toolkit",
+          "Item2": "[2.8.0, )"
+        },
+        {
+          "Item1": "Humanizer.Core",
+          "Item2": "[2.4.2, )"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[1.1.0, )"
+        },
+        {
+          "Item1": "UiPath",
+          "Item2": "[9.0.6877.24355, )"
+        }
+      ]
+    },
+    "UiPath.Vision": {
+      "Id": "UiPath.Vision",
+      "Version": "1.1.0",
+      "Dependencies": []
+    }
+  },
+  "AllPackages": [
+    {
+      "Package": {
+        "Id": "AvalonEdit",
+        "Version": "5.0.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\avalonedit\\5.0.3\\lib\\Net40\\ICSharpCode.AvalonEdit.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\avalonedit\\5.0.3"
+    },
+    {
+      "Package": {
+        "Id": "BouncyCastle",
+        "Version": "1.8.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\bouncycastle\\1.8.1\\lib\\BouncyCastle.Crypto.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\bouncycastle\\1.8.1"
+    },
+    {
+      "Package": {
+        "Id": "Caliburn.Micro",
+        "Version": "3.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib\\net45\\Caliburn.Micro.Platform.Core.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib\\net45\\Caliburn.Micro.Platform.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro\\3.0.1\\lib\\net45\\System.Windows.Interactivity.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro\\3.0.1"
+    },
+    {
+      "Package": {
+        "Id": "Caliburn.Micro.Core",
+        "Version": "3.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro.core\\3.0.1\\lib\\net45\\Caliburn.Micro.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\caliburn.micro.core\\3.0.1"
+    },
+    {
+      "Package": {
+        "Id": "Extended.Wpf.Toolkit",
+        "Version": "2.8.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.AvalonDock.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.DataGrid.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0\\lib\\net40\\Xceed.Wpf.Toolkit.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\extended.wpf.toolkit\\2.8.0"
+    },
+    {
+      "Package": {
+        "Id": "Humanizer.Core",
+        "Version": "2.4.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\humanizer.core\\2.4.2"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Exchange.WebServices",
+        "Version": "2.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.Auth.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0\\lib\\40\\Microsoft.Exchange.WebServices.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\microsoft.exchange.webservices\\2.2.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath",
+        "Version": "9.0.6877.24355"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath\\9.0.6877.24355\\lib\\UiPath.Interop.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath\\9.0.6877.24355"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.1.6562.21018"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib\\net40\\MailKit.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib\\net40\\MimeKit.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib\\net40\\UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib\\net40\\UiPath.Mail.Activities.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018\\lib\\net40\\UiPath.Mail.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.mail.activities\\1.1.6562.21018"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.UIAutomation.Activities",
+        "Version": "18.3.6877.28298"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.Docking.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.Editors.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.Ribbon.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.Shared.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.SyntaxEditor.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.SyntaxEditor.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.Text.Addons.DotNet.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.Text.LLParser.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.Text.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\ActiproSoftware.Wizard.Wpf.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298\\lib\\net461\\UiPath.Wizards.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.uiautomation.activities\\18.3.6877.28298"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Vision",
+        "Version": "1.1.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.vision\\1.1.0\\lib\\net452\\UiPath.Vision.Core.dll",
+        "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.vision\\1.1.0\\lib\\net452\\UiPath.Vision.dll"
+      ],
+      "Path": "C:\\Users\\ercan.kertisci\\.nuget\\packages\\uipath.vision\\1.1.0"
+    }
+  ]
+}
