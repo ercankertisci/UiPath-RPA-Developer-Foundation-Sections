@@ -1,0 +1,5 @@
+Hello {0},
+
+	This is to inform you that the file has been successfully processed.
+
+Your friendly neighbourhood robot.
